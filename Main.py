@@ -73,12 +73,3 @@ for every_product in products:
 
     else:
         print("Still at current price\n ")
-        
-        
-        
-        
-        
-        
-        
-        
-        
